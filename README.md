@@ -1,6 +1,5 @@
 # credit_card_seg
-Web scraping project that retrieves the Waterloo Region grocery stores location from a search engine result, outputs the data in a cleaned dataframe and visualized the data on a map
-Clustering project 
+Clustering project that visualized and explore bank credit card datasets, obtained the optimal number of clusters using the elbow method, performed customer segmentation and dimensionality reduction.
 
 ## Table of Contents
 - [Motivation](https://github.com/Krismars19/credit_card_seg#motivation)
